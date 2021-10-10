@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person>
+    <book>
+        <title>Good Omens</title>
+        <first_author>Neil Gaiman</first_author>
+        <second_author>Terry Pratchett</second_author>
+        <Genre>Homorous Fiction</Genre>
+        <Year_Published>5/10/1990</Year_Published>
+    </book>
+    <book>
+        <title>Heads You Lose</title>
+        <first_author>Lisa Lutz</first_author>
+        <second_author>David Hayward</second_author>
+        <Genre>Mystery</Genre>
+        <Year_Published>4/5/2011</Year_Published>
+    </book>
+    <book>
+        <title>Between The Lines</title>
+        <first_author>Jodi Picoult</first_author>
+        <second_author>Samantha van Leer</second_author>
+        <Genre>Fantasy Fiction</Genre>
+        <Year_Published>6/26/2012</Year_Published>
+    </book>
+</Person>
