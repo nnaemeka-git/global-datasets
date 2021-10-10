@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Good Omens",
+    "authors": [
+      "Neil Gaiman",
+      "Terry Pratchett"
+    ],
+    "Genre": "Homorous Fiction",
+    "Year_Published": "5/10/1990"
+  },
+  {
+    "title": "Heads You Lose",
+    "authors": [
+      "Lisa Lutz",
+      "David Hayward"
+    ],
+    "Genre": "Mystery",
+    "Year_Published": "4/5/2011"
+  },
+  {
+    "title": "Between The Lines",
+    "authors": [
+      "Jodi Picoult",
+      "Samantha van Leer"
+    ],
+    "Genre": "Fantasy Fiction",
+    "Year_Published": "6/26/2012"
+  }
+]
