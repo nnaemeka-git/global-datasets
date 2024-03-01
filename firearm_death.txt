@@ -1,0 +1,86 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	4596	19752465	23.3
+	"Alaska"	"02"	691	2932814	23.6
+	"Arizona"	"04"	4913	29148080	16.9
+	"Arkansas"	"05"	2524	12088042	20.9
+	"California"	"06"	13010	157675182	8.3
+	"Colorado"	"08"	3721	23074088	16.1
+	"Connecticut"	"09"	843	14300555	5.9
+	"Delaware"	"10"	493	3931128	12.5
+	"District of Columbia"	"11"	618	2791070	22.1
+	"Florida"	"12"	11957	86291502	13.9
+	"Georgia"	"13"	7472	42646481	17.5
+	"Hawaii"	"15"	242	5684922	4.3
+	"Idaho"	"16"	1179	7269109	16.2
+	"Illinois"	"17"	6489	50671900	12.8
+	"Indiana"	"18"	4345	26985035	16.1
+	"Iowa"	"19"	1291	12667855	10.2
+	"Kansas"	"20"	1824	11673206	15.6
+	"Kentucky"	"21"	3293	17922720	18.4
+	"Louisiana"	"22"	4501	18578137	24.2
+	"Maine"	"23"	653	5405004	12.1
+	"Maryland"	"24"	3182	24309329	13.1
+	"Massachusetts"	"25"	1020	27672949	3.7
+	"Michigan"	"26"	5528	40000138	13.8
+	"Minnesota"	"27"	1988	22615543	8.8
+	"Mississippi"	"28"	3171	11879430	26.7
+	"Missouri"	"29"	5403	24583615	22.0
+	"Montana"	"30"	913	4315931	21.2
+	"Nebraska"	"31"	785	7764920	10.1
+	"Nevada"	"32"	2220	12396798	17.9
+	"New Hampshire"	"33"	562	5471436	10.3
+	"New Jersey"	"34"	1706	35940211	4.7
+	"New Mexico"	"35"	1966	8414453	23.4
+	"New York"	"36"	3755	78168459	4.8
+	"North Carolina"	"37"	6351	42023689	15.1
+	"North Dakota"	"38"	410	3062396	13.4
+	"Ohio"	"39"	6808	46851776	14.5
+	"Oklahoma"	"40"	3064	15867472	19.3
+	"Oregon"	"41"	2347	16896112	13.9
+	"Pennsylvania"	"42"	6852	51356359	13.3
+	"Rhode Island"	"44"	203	4269411	4.8
+	"South Carolina"	"45"	4174	20641586	20.2
+	"South Dakota"	"46"	478	3554987	13.4
+	"Tennessee"	"47"	5540	27461236	20.2
+	"Texas"	"48"	15982	116586426	13.7
+	"Utah"	"49"	1670	12954917	12.9
+	"Vermont"	"50"	308	2519205	12.2
+	"Virginia"	"51"	4482	34286041	13.1
+	"Washington"	"53"	3411	30582788	11.2
+	"West Virginia"	"54"	1287	7165725	18.0
+	"Wisconsin"	"55"	2712	23364565	11.6
+	"Wyoming"	"56"	566	2317627	24.4
+"Total"			173499	1316784825	13.2
+"---"
+"Dataset: Underlying Cause of Death, 2018-2021, Single Race"
+"Query Parameters:"
+"Injury Mechanism & All Other Leading Causes: Firearm"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Mar 1, 2024 3:15:19 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2021 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"2018-2021, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Mar 1, 2024 3:15:19 AM"
+"---"
+Caveats:
+"1. The population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
